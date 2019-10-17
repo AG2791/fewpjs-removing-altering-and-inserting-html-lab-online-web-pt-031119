@@ -2,5 +2,5 @@
 
 main.remove()
 
-let newHeader = newHeader.'h1#vicotry'
+let newHeader = document.createElement('h1');
 
