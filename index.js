@@ -2,5 +2,5 @@
 
 main.remove()
 
-let newHeader = document.createElement
+let newHeader = 
 
