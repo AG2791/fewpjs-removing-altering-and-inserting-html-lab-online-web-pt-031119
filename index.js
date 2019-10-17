@@ -2,5 +2,5 @@
 
 main.remove()
 
-let newHeader = 
+let newHeader = newHeader.'h1#vicotry'
 
