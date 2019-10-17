@@ -2,4 +2,5 @@
 
 main.remove()
 
-let newHeader = document.create 
+let newHeader = document.body.appendChild('h1#victory');
+
